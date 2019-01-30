@@ -1,0 +1,54 @@
+{
+  "name": "framework",
+  "version": "1.0.0",
+  "description": "This is for CyberFramework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "author": "CyberStar",
+  "license": "ISC",
+  "devDependencies": {
+    "exceljs": "^1.6.3",
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.4.2",
+    "protractor-beautiful-reporter": "^1.2.7"
+  },
+  "dependencies": {
+    "debug": "^3.2.6",
+    "form-data": "^2.3.2",
+    "https-proxy-agent": "^2.2.1",
+    "is-path-in-cwd": "^1.0.1",
+    "is-path-inside": "^1.0.1",
+    "json-stringify-safe": "^5.0.1",
+    "lie": "^3.1.1",
+    "mime-db": "^1.36.0",
+    "mime-types": "^2.1.20",
+    "minimatch": "^3.0.4",
+    "minimist": "^1.2.0",
+    "ms": "^2.1.1",
+    "oauth-sign": "^0.9.0",
+    "object-assign": "^4.1.1",
+    "os-tmpdir": "^1.0.2",
+    "pako": "^1.0.6",
+    "path-is-absolute": "^1.0.1",
+    "path-is-inside": "^1.0.2",
+    "performance-now": "^2.1.0",
+    "pinkie-promise": "^2.0.1",
+    "pify": "^2.3.0",
+    "pinkie": "^2.0.4",
+    "process-nextick-args": "^1.0.7",
+    "q": "^1.4.1",
+    "qs": "^6.5.2",
+    "psl": "^1.1.29",
+    "punycode": "^1.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Bank"
+  }
+}
